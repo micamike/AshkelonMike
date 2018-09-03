@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WikipediaTest.iml" filepath="$PROJECT_DIR$/.idea/modules/WikipediaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WikipediaTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WikipediaTest_main.iml" group="WikipediaTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WikipediaTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WikipediaTest_test.iml" group="WikipediaTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium_main.iml" group="addressbook-selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium_test.iml" group="addressbook-selenium" />
+    </modules>
+  </component>
+</project>
